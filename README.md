@@ -1,2 +1,2 @@
 # collab_repo
-For sharing with team
+We have a collaborative repo now
